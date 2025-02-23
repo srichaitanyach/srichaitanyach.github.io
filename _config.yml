@@ -192,6 +192,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _includes/repository
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -266,7 +268,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Ch, Chadalawada, Ch Sri, CS, Chaitanya]
-  first_name: [Chaitanya, Sri Chaitanya, Ch]
+  first_name: [Chaitanya, Sri Chaitanya, Ch, Sri]
 
   style: apa
   locale: en
